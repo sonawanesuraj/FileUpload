@@ -20,7 +20,7 @@ import com.bulkupload.utils.ErrorResponseDto;
 import com.bulkupload.utils.SuccessResponseDto;
 
 @RestController
-@RequestMapping("/users")
+@RequestMapping("/file")
 public class BulkuploadController {
 
 	@Autowired
